@@ -10,4 +10,4 @@ redirect_from:
 
 Personal page of Julian Stobbe.
 
-Up to now, only the GitHub and LinkedIn links, publications and theses pdf are available here.
+Webpage is still udner construction, only the GitHub and LinkedIn links, publications and PhD/Msc theses pdfs are available for now.
