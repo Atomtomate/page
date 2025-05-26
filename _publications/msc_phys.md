@@ -8,4 +8,6 @@ date: 2018-03-26
 venue: 'Goethe University Frankfurt'
 ---
 
-Msc thesis physics. ToDo: description.
+Master thesis in phsyics. 
+Numerical investigation of the Hubbard model on the simple cubic lattice in 3D and the bethe `lattice`.
+For the investigation of the phase diagram in  the coupling strength `U` and temperature `T`, two state of te art Continuous Time Quantum Monte Carlo algorithms were discussed and implemented.

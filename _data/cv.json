@@ -1,61 +1,65 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Julian Stobbe",
+    "email": "julian-stobbe1@pm.me",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "julianstobbe.de/page",
+    "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Wiesingerweg 42",
+      "postalCode": "20253",
+      "city": "Hamburg",
+      "countryCode": "de",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.at/citations?user=nbjAriIAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "atomtomate",
+        "url": "https://github.com/atomtomate"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "University Hamburg",
+      "area": "Ph.D in Theoretical Physics",
+      "studyType": "Physics",
+      "startDate": "2019",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Goethe University Frankfurt",
+      "area": "M.S. in Computer Science",
+      "studyType": "Computer Science",
+      "startDate": "2011",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Goethe University Frankfurt",
+      "area": "M.S. in Physics",
+      "studyType": "Physics",
+      "startDate": "2015",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Goethe University Frankfurt",
+      "area": "B.S. in Physics",
+      "studyType": "Physics",
+      "startDate": "2010",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +70,25 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Consistency of potential energy in the dynamical vertex approximation",
+      "publisher": "Physical Review B",
+      "releaseDate": "2022-08-11",
+      "website": "http://atomtomate.github.io/page/files/2208.05824v2.pdf",
+      "summary": "This paper extends the existing ladder dynamical vertex approximation to include consistency of the potential energies between one- and two-particle level. The effects near the antiferromagnetic phase transition in the Hubbard model on the 3D simple cubic lattice are discussed."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Mean Field Decoupling of Single Impurity Anderson Model through Auxiliary Majorana Fermions",
+      "publisher": "Annals of Physics",
+      "releaseDate": "2025-01-25",
+      "website": "http://atomtomate.github.io/page/files/2403.13661v2.pdf",
+      "summary": "This paper introduces an approximate but computationally efficient method to study non-equilibrium dynamics of a 1D Anderson-impuritry chain."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Systemic Greeks: Measuring risk in financial networks",
+      "publisher": "arXiv",
+      "releaseDate": "2018-10-28",
+      "website": "http://atomtomate.github.io/page/files/1810.11849v1.pdf",
+      "summary": "This paper investigates the impact of cross-shareholdings in networks of firms under external shocks."
     }
   ]
 }
