@@ -5,6 +5,7 @@ category: theses
 permalink: /publication/msc_phys
 paperurl:  'http://atomtomate.github.io/page/files/msc_physik.pdf'
 date: 2018-03-26
+venue: 'Goethe University Frankfurt'
 ---
 
 Msc thesis physics. ToDo: description.
