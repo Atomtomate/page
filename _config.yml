@@ -23,13 +23,13 @@ repository               : "Atomtomate/page.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Julian Stobbe"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student Solid State Theory"
   location         : "Hamburg"
   employer         : "University Hamburg"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "julian-stobbe1@pm.me" 
 
   # Academic websites
   academia         : # URL
