@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-Webpage is still udner construction, only the GitHub and LinkedIn links, publications and PhD/Msc theses pdfs are available for now.
+Webpage is still under construction. 
+Only the navigation bar with GitHub and LinkedIn links, publications and PhD/Msc theses pdfs are available.
