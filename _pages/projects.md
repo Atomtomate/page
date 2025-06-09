@@ -24,7 +24,7 @@ The DMFT solution can, for example, be calculated using `jED.jl` or my [CTQMC co
 The input for `LadderDGA.jl` is then prepared by [`VertexPostprocessing.jl`](https://github.com/Atomtomate/VertexPostprocessing.jl), which can also take symmetry considerations from `EquivalenceClassesConstructor.jl` into account.
 
 
-[`MFDecoupling.jl`](https://github.com/Atomtomate/MFDecoupling.jl): A wrapper around a differential equation solver package, that computes the time evolution on an Anderson Impurity Chain.
+[`MFDecoupling.jl`](https://github.com/Atomtomate/MFDecoupling.jl): A co-authored wrapper around a differential equation solver package, that computes the time evolution on an Anderson Impurity Chain.
 
 
 [`LuttingerWard_from_ML`](https://github.com/Atomtomate/LuttingerWard_from_ML): This is a co-authored project which aims to explore the feasibility of training neural networks to learn details about the Luttinger Ward functional. Using `jED.jl`, pairs of Green's functions and self-energies are generated and given as training/test data to different network architectures. 
