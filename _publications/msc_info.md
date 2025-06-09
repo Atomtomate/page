@@ -9,6 +9,8 @@ date: 2019-04-14
 venue: 'Goethe University Frankfurt'
 ---
 
-Master thesis in computer science, investigating the stability of financial networks topologies with cross-ownerships under exterrnal financial shocks.
+Master thesis in computer science.
+
+Investigating the stability of financial networks topologies with cross-ownerships under exterrnal financial shocks.
 
 The numerical calculations have been carried out with Monte Carlo techniques.

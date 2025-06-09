@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Website Status"
+title: "Physics, Programming, Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 
-Webpage is still udner construction, only the GitHub and LinkedIn links, publications and PhD/Msc theses pdfs are available for now.
+Welcome to my personal website. 
+I have a PhD in physics and a Masters degree in computer science and my personal interests include programming, weight lifting and games.
+On this page you find my publications and a description of some of my programming projects.
