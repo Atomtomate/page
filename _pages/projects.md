@@ -3,7 +3,7 @@ permalink: /
 title: "Projects"
 author_profile: true
 redirect_from: 
-  - /projects/
+  - /projects
 ---
 
 [`SeriesAcceleration.jl`](https://github.com/Atomtomat/SeriesAcceleration.jl): Functonality for improved sum calculations, i.e. obtaining a closer approximation of the limit of an infinte series, than through plain summation.

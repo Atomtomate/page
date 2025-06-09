@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Welcome to my personal website. 
 I have a PhD in physics and a Masters degree in computer science and my personal interests include programming (espicially algorithm design), weight lifting and games.
 
