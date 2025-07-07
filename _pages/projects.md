@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-[`SeriesAcceleration.jl`](https://github.com/Atomtomat/SeriesAcceleration.jl): Functonality for improved sum calculations, i.e. obtaining a closer approximation of the limit of an infinte series, than through plain summation.
+[`SeriesAcceleration.jl`](https://github.com/Atomtomate/SeriesAcceleration.jl): Functonality for improved sum calculations, i.e. obtaining a closer approximation of the limit of an infinte series, than through plain summation.
 
 
 [`EquivalenceClassesConstructor.jl`](https://github.com/Atomtomate/EquivalenceClassesConstructor.jl): Construction of a minimal set of representatives from a given set, under a number of equivalence relations. A mapping back to the original set is also computed. This can, for example, be used 
